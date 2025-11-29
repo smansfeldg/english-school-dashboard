@@ -64,13 +64,6 @@ const upcomingEvents: UpcomingEvent[] = [
   { id: 4, title: "Noche de Idiomas", date: "Vie 13/12, 19:00", type: 'evento' },
 ];
 
-const recentActivity = [
-  { id: 1, type: 'grade', text: "Nueva calificación en Inglés Avanzado: 9.5/10", time: "Hace 2 horas" },
-  { id: 2, type: 'message', text: "Nuevo mensaje de Prof. María González", time: "Hace 5 horas" },
-  { id: 3, type: 'material', text: "Material nuevo disponible en Matemáticas", time: "Ayer" },
-  { id: 4, type: 'announcement', text: "Anuncio: Cambio de aula para Inglés Avanzado", time: "Hace 2 días" },
-];
-
 export default function AcademicDashboard() {
   return (
     <>

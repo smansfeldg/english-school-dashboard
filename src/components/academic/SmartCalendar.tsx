@@ -142,7 +142,7 @@ export default function SmartCalendar() {
           {/* Week View */}
           <div className="p-6">
             <div className="mb-4 grid grid-cols-7 gap-2">
-              {weekDays.map((day, index) => (
+              {weekDays.map((day) => (
                 <div key={day} className="text-center text-sm font-semibold text-body">
                   {day}
                 </div>

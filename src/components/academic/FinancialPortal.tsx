@@ -28,7 +28,7 @@ const currentPayments: Payment[] = [
   },
   {
     id: 2,
-    concept: "Material Didáctico - Inglés",
+    concept: "Cuota de transporte",
     amount: 3500,
     dueDate: "2025-11-15",
     status: 'overdue'

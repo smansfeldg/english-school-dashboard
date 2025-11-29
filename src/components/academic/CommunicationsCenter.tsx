@@ -29,7 +29,7 @@ const newsItems: NewsItem[] = [
     category: 'all',
     target: "Todos los estudiantes",
     priority: 'urgent',
-    image: "/images/carousel/carousel-01.jpg"
+    image: "/images/carousel/carousel-0.jpg"
   },
   {
     id: 2,
@@ -48,7 +48,7 @@ const newsItems: NewsItem[] = [
     category: 'all',
     target: "Todos los estudiantes",
     priority: 'normal',
-    image: "/images/cards/cards-02.jpg"
+    image: "/images/carousel/carousel-0.jpg"
   },
   {
     id: 4,
@@ -80,7 +80,7 @@ const messages: Message[] = [
     preview: "Hola! Quería felicitarte por tu presentación de ayer. Tu fluidez ha mejorado notablemente...",
     date: "Hoy, 14:30",
     read: false,
-    avatar: "/images/user/user-01.png"
+    avatar: "/images/user/user-0.png"
   },
   {
     id: 2,
@@ -90,7 +90,7 @@ const messages: Message[] = [
     preview: "Estimado alumno, te recordamos que el vencimiento de la cuota de noviembre es el 30/11...",
     date: "Ayer, 10:15",
     read: false,
-    avatar: "/images/user/user-02.png"
+    avatar: "/images/user/user-0.png"
   },
   {
     id: 3,
@@ -100,7 +100,7 @@ const messages: Message[] = [
     preview: "Adjunto te envío ejercicios adicionales de trigonometría para practicar antes del examen...",
     date: "22/11/2025",
     read: true,
-    avatar: "/images/user/user-03.png"
+    avatar: "/images/user/user-0.png"
   },
   {
     id: 4,
@@ -110,7 +110,7 @@ const messages: Message[] = [
     preview: "Recuerda que la fecha límite para entregar el proyecto final de Python es el 15/12...",
     date: "20/11/2025",
     read: true,
-    avatar: "/images/user/user-04.png"
+    avatar: "/images/user/user-0.png"
   }
 ];
 

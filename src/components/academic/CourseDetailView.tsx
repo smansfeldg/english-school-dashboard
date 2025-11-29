@@ -24,7 +24,7 @@ const courseDetail: CourseDetail = {
   name: "Inglés Avanzado",
   level: "C1",
   teacher: "Prof. María González",
-  teacherImage: "/images/user/user-01.png",
+  teacherImage: "/images/user/user-0.png",
   evaluations: [
     { id: 1, name: "Examen Oral - Unit 1", date: "15/10/2025", grade: 9, maxGrade: 10, weight: 20 },
     { id: 2, name: "Writing Assignment", date: "22/10/2025", grade: 8.5, maxGrade: 10, weight: 15 },
